@@ -7,3 +7,5 @@ Write-host"follow my spotify playlist https://open.spotify.com/playlist/3nAr74We
 Write-host"follow me too @ducko'bama_961, also follow my tablet account https://open.spotify.com/user/p00so1ekw0jppvmk792i253hv @ducko'bama_962"
 Write-host"i joined in august 2020 on my ducko'bama_961 account"
 Write-host"and i joined in september on my ducko'bama_962 account"
+Write-host"follow my github https://github.com/JavascriptCoder999/"
+Write-host"contact me on email at lucaspeel93@outlook.com"
